@@ -1,0 +1,2 @@
+随机游走路径: it -> again
+游走的边: analyzed->it, it->again
